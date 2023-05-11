@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ola! Sejam bem Vindos ao meu Perfil, L0uzz lhe da Boas-Vindas✌️
 
-<!--
-**l0uzz/l0uzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias que eu uso no Dia a Dia!
+[![Badge1](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+[![Badge2](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+[![Badge3](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 
-Here are some ideas to get you started:
+![L0uzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0uzz&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certificados :
+[![Badge4](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](file:///C:/Users/andre/Downloads/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20230511-28-mdn8ek.pdf)
+
+Apaixonado por games , tecnologia e em aprender coisas novas.
+
+### Links:
+
