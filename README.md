@@ -16,3 +16,5 @@ Apaixonado por games , tecnologia e em aprender coisas novas.
 
 ### Links:
 
+https://l0uzz.github.io/Discover/ --> SITE PARA INFORMAÇÕES.
+
